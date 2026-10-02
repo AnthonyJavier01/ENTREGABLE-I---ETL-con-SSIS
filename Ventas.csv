@@ -1,0 +1,6 @@
+IdVenta,FechaVenta,IdCliente,Producto,Cantidad,PrecioUnitario,Estado
+1,2026-10-01,100,Laptop,2,1500,APROBADA
+2,2026-10-01,100,Mouse,1,50,APROBADA
+3,2026-10-01,101,Teclado,0,100,APROBADA
+4,2026-10-01,102,Monitor,2,0,APROBADA
+5,2026-10-01,100,Impresora,1,200,RECHAZADA

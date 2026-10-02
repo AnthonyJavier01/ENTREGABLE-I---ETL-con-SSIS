@@ -1,0 +1,4 @@
+IdVenta,FechaVenta,IdCliente,Producto,Cantidad,PrecioUnitario,Estado,ImporteTotal
+3,2026-10-01,101,Teclado,0,100,APROBADA,.00
+4,2026-10-01,102,Monitor,2,0,APROBADA,.00
+5,2026-10-01,100,Impresora,1,200,RECHAZADA,200.00
